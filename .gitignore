@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Logs y temporales de ejecución
+*.log
+*.tmp
+*.invalid.pbix
+*.pre_rebuild.pbix
+.visual_progress.txt
+.gui_progress.txt
+
+# Sistema operativo
+Thumbs.db
+desktop.ini

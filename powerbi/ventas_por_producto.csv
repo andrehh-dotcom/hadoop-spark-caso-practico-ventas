@@ -1,0 +1,8 @@
+Producto,Unidades,TotalVendido,TicketPromedio,NumVentas
+Laptop,50,60000.0,1875.0,32
+Tablet,71,15620.0,371.9,42
+Monitor,48,14400.0,464.52,31
+Impresora,56,8400.0,233.33,36
+Audifonos,68,5440.0,139.49,39
+Teclado,50,2500.0,75.76,33
+Mouse,53,1325.0,41.41,32
